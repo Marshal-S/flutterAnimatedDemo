@@ -1,0 +1,3 @@
+# flutter_animated_demo
+
+测试基础动画的案例demo，包含常见的隐式动画和显式动画
